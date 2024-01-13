@@ -1,7 +1,7 @@
 {
   "page": 1,
   "perPage": 100,
-  "totalItems": 57,
+  "totalItems": 75,
   "totalPages": 1,
   "items": [
     {
@@ -622,13 +622,211 @@
     },
     {
       "Subjects": "all, mechanics of solids, mechanical engineering Thin cylinders and spherical shells, Cylindrical vessels with hemispherical ends,\r\nWire wound barrels, Lame’s theory, Thick cylinder, Compound cylinder, Force\r\nfits.",
-      "Title": "Solid Mechanics",
+      "Title": "Solid Mechanics Part 1",
       "collectionId": "xzvq53ranj3myhl",
       "collectionName": "notes",
       "created": "2024-01-12 10:09:26.930Z",
       "id": "awr8zqlxyo4f1cl",
       "notes": "https://drive.google.com/drive/folders/1UXe5cxQcR_Xj7OE7WnOhhwAFrIbPSEJ2",
-      "updated": "2024-01-12 10:10:26.842Z",
+      "updated": "2024-01-13 12:40:16.357Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanics of solids, mechanical engineering Thin cylinders and spherical shells, Cylindrical vessels with hemispherical ends,\r\nWire wound barrels, Lame’s theory, Thick cylinder, Compound cylinder, Force\r\nfits.",
+      "Title": "Solid Mechanics Part 2",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 12:40:48.161Z",
+      "id": "osr255pt63w64o5",
+      "notes": "https://drive.google.com/drive/folders/14zomydnuZO1g2ykEwYlwe884icwXvoHR?usp=sharing",
+      "updated": "2024-01-13 12:40:48.161Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanics of solids, mechanical engineering Link, Pair 7 kinematic chain, constrained criterion, Mechanism, Four link planer\r\nmechanisms and its inversion, Simple mechanisms (straight line motion mechanism, Pantograph,\r\nEngine indicator, Hook’s joint and steering gear mechanism)",
+      "Title": "Kinematics Of Machines Unit 1",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 12:49:24.209Z",
+      "id": "hi6lyq5pi15n5jb",
+      "notes": "https://drive.google.com/drive/folders/1hueQs-rNhEsJrPTm_E7lgfKKZTlrPl6w?usp=sharing",
+      "updated": "2024-01-13 12:49:24.209Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanics of solids, mechanical engineering Gear drives, introduction, classification of gear, gear nomenclature, tooth profile,\r\ninterference on involute gears, path of contact, arc of contact of meshing gears, gear train, simple,\r\ncompound and epicyclic gear trains.",
+      "Title": "Kinematics Of Machines Unit 3",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 12:51:28.105Z",
+      "id": "nh24spc1wzsobxc",
+      "notes": "https://drive.google.com/drive/folders/1b-OoXdPTUk8jFwZazlbZvXx3yhNSoGup?usp=sharing",
+      "updated": "2024-01-13 12:53:31.539Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Introduction, type of design, general considerations and procedures of machine design,\r\ntypes of loadings, selection of materials and its designations, design stress and factor of safety,\r\nselection of factor of safety, application of theories of failures to design.",
+      "Title": "Kinematics Of Machines Unit 4",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 12:55:05.643Z",
+      "id": "3c380wg6hkht0lv",
+      "notes": "https://drive.google.com/drive/folders/1ah1ET3ZD6sDQWdd-8x9pLahughz016RR?usp=sharing",
+      "updated": "2024-01-13 12:55:05.643Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Fluid as continuum, incompressible and compressible fluids, stress at a point, Newton’s law of viscosity, Newtonian fluids, thermodynamic/hydrodynamic pressure, manometers, hydro-static forces on submerged plane and curved surfaces, rigid body motion of fluid, buoyancy and stability, dimensional analysis, significance of non-dimensional numbers as applied to fluid mechanics.",
+      "Title": "Fluid Mechanics - 1",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:02:12.813Z",
+      "id": "vx6gv1k6tp1etkd",
+      "notes": "https://drive.google.com/drive/folders/1tZYfM28A3EMEgkqYF0udquPpa4qMxgMX?usp=sharing",
+      "updated": "2024-01-13 13:02:12.813Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Eulerian & Lagrangian description of fluid motion, velocity & acceleration, stream line, path\r\nline and streak line, 2D stream function in Cartesian & polar coordinates, translation, vorticity\r\n& angular velocity, circulation, flow classification. Irrotational flow and its origin, governing\r\nequations and elementary solutions, superposition of elementary solutions and applications.",
+      "Title": "Fluid Mechanics - 2",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:03:31.842Z",
+      "id": "n9m3cu7h3odyp6v",
+      "notes": "https://drive.google.com/drive/folders/1EsfAOQzOuN-B86Oe7o0YtXI85pyjjL1b?usp=sharing",
+      "updated": "2024-01-13 13:03:31.842Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  System & control volume, basic & subsidiary laws, transport theorem (no proof), laws of\r\nconservation of mass, momentum; integral & differential approaches, Euler & Bernoulli’s\r\nequations, applications of Bernoulli’s equation.",
+      "Title": "Fluid Mechanics - 3",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:04:07.343Z",
+      "id": "l3pbvntflclvd3y",
+      "notes": "https://drive.google.com/drive/folders/1dHvNJYOcDZpRbEALM1mB-aLsQJRlXB1S?usp=sharing",
+      "updated": "2024-01-13 13:04:07.343Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Laminar & turbulent flows: friction factor, Moody’s diagram, energy losses through pipes, bends & pipe fittings, velocity distributions in pipes; constriction meters.",
+      "Title": "Fluid Mechanics - 4",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:04:57.355Z",
+      "id": "9cagrw5dzj1jlcr",
+      "notes": "https://drive.google.com/drive/folders/1UrB5TKgD9RMKxV9VyCJBVRu5AU2056OC?usp=sharing",
+      "updated": "2024-01-13 13:04:57.355Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering Metal casting: Casting processes, Pattern and core making, Moulding, Solidification of metals,\r\nGating system, Riser, Casting processes, Inspection of Casting defects, Casting Design and\r\nEconomics",
+      "Title": "Metal Casting",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:07:34.727Z",
+      "id": "iryiro4x9lufb5i",
+      "notes": "https://drive.google.com/drive/folders/1gp6ehJW-QaER51cE3BFxMaE1h1iUdvuG?usp=sharing",
+      "updated": "2024-01-13 13:07:34.727Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering Metal Joining: Fusion and non-fusion welding processes, metallurgy of welding, weld design,\r\nwelding defects, testing welded joints, soldering, brazing, adhesive bonding and mechanical\r\nfastening.",
+      "Title": "Metal Joining",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:08:21.665Z",
+      "id": "venihaxmcbcb72p",
+      "notes": "https://drive.google.com/drive/folders/1yWbZjaJFfZNck7qoC5g8yYb8STggUdoF?usp=sharing",
+      "updated": "2024-01-13 13:08:21.665Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering Metal Forming: Mechanisms of Plastic deformation, yield criteria, Hot and Cold working\r\nprocesses: rolling, forging, extrusion and drawing, shear metal working, punching, blanking,\r\nbending, deep drawing, coining and spinning, Design of Jigs and Fixtures, Press working tools.",
+      "Title": "Metal Forming",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:12:19.000Z",
+      "id": "7v0a432yxeny2nb",
+      "notes": "https://drive.google.com/drive/folders/1HsFXXltKFWE8-8sxdbLlCqUa8xh0-UMc?usp=sharing",
+      "updated": "2024-01-13 13:12:19.000Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering Processing of Metal and non-metals: Powder Metallurgy: Production of metal powders,\r\ncompaction, sintering, Selective laser sintering, forming and shaping of ceramics and glasses.\r\nProcessing of Plastics: Extrusion, Injection moulding, Blow and rotational Moulding, thermoforming,\r\ncasting, processing of elastomers and reinforced plastics, Design Consideration, Rapid prototyping.",
+      "Title": "Processing of Metal and Non-Metals",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:13:16.302Z",
+      "id": "91rn39boa17s3he",
+      "notes": "https://drive.google.com/drive/folders/1i04lLJXufJgQFujGbnOWN_NjoB6xFBNW?usp=sharing",
+      "updated": "2024-01-13 13:13:16.302Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Experimental Methods and Analysis experimental methods, analysis, mechanical engineering, experimentation, data analysis, research methods, testing techniques, engineering analysis, experimental design, scientific methods",
+      "Title": "Experimental Methods and Analysis - 1",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:38:04.794Z",
+      "id": "71ojl57eet4tezj",
+      "notes": "https://drive.google.com/drive/folders/1gWfy5eB3K5Uxf1itaUm45voVl6Nsbp9Y?usp=sharing",
+      "updated": "2024-01-13 13:38:04.794Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Experimental Methods and Analysis experimental methods, analysis, mechanical engineering, experimentation, data analysis, research methods, testing techniques, engineering analysis, experimental design, scientific methods",
+      "Title": "Experimental Methods and Analysis - 2",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:40:38.601Z",
+      "id": "mch89zpfx0v9lpg",
+      "notes": "https://drive.google.com/drive/folders/1XlaBIIoByH0kM5gwjEovYTvLpJWzbAC-?usp=sharing",
+      "updated": "2024-01-13 13:40:38.601Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Experimental Methods and Analysis experimental methods, analysis, mechanical engineering, experimentation, data analysis, research methods, testing techniques, engineering analysis, experimental design, scientific methods",
+      "Title": "Experimental Methods and Analysis - 3",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:41:01.131Z",
+      "id": "3rxxatpzaf7nw7q",
+      "notes": "https://drive.google.com/drive/folders/1yJsm3bFnI6A1xg-_6XJzKxQvpM-xBoz6?usp=sharing",
+      "updated": "2024-01-13 13:41:01.131Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, mechanical engineering  Experimental Methods and Analysis experimental methods, analysis, mechanical engineering, experimentation, data analysis, research methods, testing techniques, engineering analysis, experimental design, scientific methods",
+      "Title": "Experimental Methods and Analysis - 4",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:42:59.540Z",
+      "id": "yg9mqmsozgysn61",
+      "notes": "https://drive.google.com/drive/folders/1YCdddDPvrIAiQeJlzGrVtQ1S1ZIrTUG4?usp=sharing",
+      "updated": "2024-01-13 13:42:59.540Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, maths, matrices, mechanical engineering, higher mathematics, function of complex variable",
+      "Title": "Function Of Complex Variable",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:45:41.399Z",
+      "id": "q7g66z2ccssgl1p",
+      "notes": "https://drive.google.com/drive/folders/1cEtkXA27USIPoP7habH9o08Cj28uIUGW?usp=sharing",
+      "updated": "2024-01-13 13:59:05.177Z",
+      "year": "2"
+    },
+    {
+      "Subjects": "all, maths, matrices, mechanical engineering, higher mathematics, unit-2",
+      "Title": "Higher Mathematics Unit-2",
+      "collectionId": "xzvq53ranj3myhl",
+      "collectionName": "notes",
+      "created": "2024-01-13 13:59:40.046Z",
+      "id": "9kmi523g1f6z94m",
+      "notes": "https://drive.google.com/drive/folders/1VdHfmX8BB50XmncL4lXsk_O6lpkPxYoj",
+      "updated": "2024-01-13 13:59:40.046Z",
       "year": "2"
     }
   ]
